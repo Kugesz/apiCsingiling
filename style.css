@@ -1,0 +1,21 @@
+div.tarolo{
+    background-color: grey;
+    border-radius: 5px;
+}
+
+p{
+    display: inline-block;
+}
+
+h1, p#leiras{
+    text-align: center;
+    display: block;
+}
+
+h2{
+    size: 5px;
+}
+
+img {
+    width: 100%;
+}
